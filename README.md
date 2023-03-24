@@ -3,6 +3,8 @@
   Problem Statement 1 : Analyze Placement Data<br/> 
   Problem Statement 2 : Detecting Emotional Sentiment in Cartoons<br/> 
 
+## Please download the notebooks to view its contents as there is an issue with viewing Colab Notebooks on the GitHub website. But downloading works fine.
+
 ## Problem Statement 1 : Analyze Placement Data<br/> 
 
 **Challenge Description:**
